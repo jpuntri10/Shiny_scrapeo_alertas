@@ -1,7 +1,6 @@
 
 
 
-
 # ------------------------------------------------------------
 # Carga de grupos desde Excel (MyTron) - RSelenium + Shiny
 # Correcciones:
