@@ -2,7 +2,7 @@
 
 
 
-# ------------------------------------------------------------
+#
 # Carga de grupos desde Excel (MyTron) - RSelenium + Shiny
 # Correcciones:
 #  - Selección flexible del Campo (alias/contains)
